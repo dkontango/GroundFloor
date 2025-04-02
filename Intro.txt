@@ -1,0 +1,26 @@
+Just getting started buidling your business from the group up can be incredibly overwhelming. Whether you a new fish or an old do the process never gets easier. Here is the official guide to getting started with a self-hosted open souce infrastructure for your buiness. 
+
+Understand what you have and what you're going to need. 
+
+1 x Internet connection 
+1 x Firewall device
+1 x Network switch
+3 x Routers
+3 x Computers 
+  Minimum 256gb of storage
+  DDR4 16gb + 
+  1 with graphics card
+1 x Small network cabinet/rack
+1 x PSU (For recovery power)
+200 feet of CAT6 Cable
+CAT 6 Connectors
+3 x USB sticks
+1 x VGA monitor
+1 x Wireless keyboard
+1 x Wireless Mouse
+1 x Wired Mouse
+1 x Wired Keyboard
+1 x Ipad/Remote monitoring equipment
+
+
+
