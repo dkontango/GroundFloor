@@ -1,0 +1,208 @@
+# Quality of Life Linux Packages
+# Packages that enhance daily computing experience
+# One package per line, comments start with #
+
+# Enhanced terminal experience
+bat
+exa
+zoxide
+thefuck
+tldr
+autojump
+powerline-shell
+
+# Modern file utilities
+duf
+dust
+procs
+bottom
+bandwhich
+hyperfine
+
+# Clipboard and screenshot tools
+xclip
+xsel
+flameshot
+shutter
+peek
+kazam
+
+# Archive utilities and file managers
+atool
+engrampa
+thunar
+nemo
+dolphin
+
+# System information and monitoring
+screenfetch
+inxi
+glances
+bashtop
+bpytop
+
+# Network utilities
+speedtest-cli
+iperf3
+mtr
+dig
+whois
+traceroute
+
+# Multimedia enhancements
+mpv
+audacity
+obs-studio
+kdenlive
+handbrake
+youtube-dl
+
+# Fonts and appearance
+fonts-powerline
+fonts-firacode
+fonts-hack
+papirus-icon-theme
+arc-theme
+numix-icon-theme
+
+# Gaming and entertainment
+steam
+lutris
+wine
+playonlinux
+retroarch
+
+# Communication
+telegram-desktop
+signal-desktop
+zoom
+skype
+
+# Note-taking and productivity
+obsidian
+notion
+typora
+marktext
+simplenote
+keepassxc
+
+# File synchronization
+syncthing
+dropbox
+mega
+pcloud
+
+# System tweaking and customization
+dconf-editor
+gnome-tweaks
+unity-tweak-tool
+compizconfig-settings-manager
+menulibre
+
+# Hardware utilities
+hardinfo
+lshw
+hwinfo
+stress
+stress-ng
+memtest86+
+
+# Backup and recovery
+timeshift
+rsync
+duplicity
+borgbackup
+ddrescue
+
+# Educational and learning
+anki
+stellarium
+kstars
+geogebra
+scratch
+
+# Creative tools
+inkscape
+blender
+krita
+darktable
+rawtherapee
+shotcut
+
+# Development helpers (lightweight)
+meld
+diffuse
+gedit
+mousepad
+leafpad
+
+# Package management extras
+gdebi
+synaptic
+aptitude
+software-properties-common
+
+# Virtualization (lightweight)
+virtualbox
+qemu
+virt-manager
+
+# Browser alternatives
+brave-browser
+opera
+vivaldi
+
+# Email clients (alternatives)
+evolution
+claws-mail
+mutt
+
+# Calendar and scheduling
+calcurse
+remind
+gcal
+
+# Finance and productivity
+gnucash
+homebank
+kmymoney
+
+# Password managers (additional)
+pass
+gopass
+seahorse
+
+# Remote access
+remmina
+teamviewer
+anydesk
+
+# Torrent clients
+transmission
+qbittorrent
+deluge
+
+# Text processing
+pandoc-citeproc
+texmaker
+lyx
+
+# Audio production
+ardour
+lmms
+hydrogen
+
+# 3D modeling and CAD
+freecad
+openscad
+meshlab
+
+# Scientific computing
+octave
+maxima
+scilab
+
+# Weather and location
+gnome-weather
+redshift
+f.lux
