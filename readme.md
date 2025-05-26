@@ -1,5 +1,9 @@
 # 📦 Universal Package Installer
 
+**Developed by [Kontango Inc](https://kontango1.odoo.com)**
+
+ - *Making lives easier everyday
+
 A beautiful, intelligent bash script that automates package installation across Linux distributions and macOS. Say goodbye to manually installing dozens of packages one by one!
 
 ## 🚀 Why This Will Make Your Life Easier
