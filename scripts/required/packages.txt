@@ -37,31 +37,9 @@ gdb
 valgrind
 strace
 
-# Programming languages and runtimes
-openjdk-11-jdk
-openjdk-17-jdk
-golang-go
-rustc
-cargo
-ruby
-ruby-dev
-php
-php-cli
-lua5.3
-perl
-
 # Version control and collaboration
 git-lfs
 gh
-subversion
-mercurial
-
-# Database development
-sqlite3
-mysql-client
-postgresql-client
-redis-tools
-mongodb-clients
 
 # Container and virtualization tools
 docker.io
@@ -127,13 +105,9 @@ nmap
 openssl
 
 # Productivity applications
-firefox
 chromium-browser
 thunderbird
 libreoffice
-slack
-discord
-teams
 
 # Web development
 apache2
